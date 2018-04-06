@@ -1,0 +1,22 @@
+{
+  "name": "image-modify-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TravelC/node-image-modify-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TravelC/node-image-modify-test/issues"
+  },
+  "homepage": "https://github.com/TravelC/node-image-modify-test#readme",
+  "dependencies": {
+    "gm": "1.23.1"
+  }
+}
